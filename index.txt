@@ -423,24 +423,5 @@
 </section>
 
 <!-- footer section ends -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
 </body>
 </html>
